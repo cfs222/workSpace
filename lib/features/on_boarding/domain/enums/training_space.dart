@@ -1,0 +1,1 @@
+enum TrainingSpace { home, gym }
